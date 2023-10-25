@@ -1,4 +1,4 @@
-# Character-Occurrence-Checker
+# Character Occurrence Checker
 The Character Occurrence Checker is a tool that counts how many times a specific letter appears in a given sentence or paragraph. It provides quick and accurate results, offering valuable insights into the text's character frequency.
 
 
