@@ -16,7 +16,7 @@ Enter sentence: Hello World! <br>
 Enter letter: l <br>
 The letter ‘l’ occurred 3 time/s. <br>
 
-# Implementation of Palindrome Checker
+# Implementation of Character Occurrence Checker
 
 <p align="center">
   <img src="https://github.com/SG-Hangaan/Character-Occurrence-Checker/assets/127215110/9bc48a61-696d-4d77-b55d-55a4bb348bdf"/>
